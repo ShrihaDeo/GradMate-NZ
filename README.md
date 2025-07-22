@@ -1,6 +1,6 @@
 # GradMate NZ – Supporting International Students in Aotearoa 🇳🇿📱
 
-**GradMate NZ** is an all-in-one Android application built using Java and Firebase to help international students transition and thrive in New Zealand. It covers onboarding, housing, navigation, mental health, finance, legal support, and social connection — all tailored to your city, university, and visa type.
+**GradMate NZ** is an all-in-one Android application built using Java and Firebase to help international students transition and thrive in New Zealand. It covers onboarding, housing, navigation, mental health, finance, legal support, and social connection; all tailored to your city, university, and visa type.
 
 ---
 
@@ -82,33 +82,33 @@ Helpers: Modular utility classes (auth, i18n, notifications)
 
  User profile storage
 
-📝 Phase 2: Checklist System
+####📝 Phase 2: Checklist System
  ChecklistFragment with progress tracking
 
  Checklist sync with Firestore
 
  Reminder system with NotificationHelper
 
-🗺️ Phase 3: Map Integration
+####🗺️ Phase 3: Map Integration
  MapFragment using Google Maps SDK
 
  Static pin data for clinics, groceries, banks
 
-🏠 Phase 4: Flatting & Legal Support
+####🏠 Phase 4: Flatting & Legal Support
  Rent estimator UI
 
  Issue logging system
 
  OCR-based contract reader (future)
 
-🤝 Phase 5: Peer Connect
+####🤝 Phase 5: Peer Connect
  Matchmaking by country, uni, language
 
  Realtime chat with safety filters
 
  Interest-based groups (basic)
 
-🚨 Phase 6: Emergency & Multilingual
+####🚨 Phase 6: Emergency & Multilingual
  Emergency SOS screen
 
  Language selector + translated strings.xml
